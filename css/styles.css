@@ -44,3 +44,28 @@ header {
 .events {
   background-color: #F8F8F8;
 }
+
+.btn-primary, .btn-primary:active, .btn-primary:focus {
+  background-color: #F27678;
+  color: white;
+  font-size: 12px;
+  padding: 8px 16px;
+  border-radius: 100px;
+  text-transform: capitalize;
+  border: none;
+  margin-bottom: 64px;
+}
+
+.btn-primary:hover {
+  background-color: #54BEAD;
+  color: white;
+  border: none;
+}
+
+.subscribe {
+  background-image: url(../img/robot-bg.svg);
+}
+
+.white {
+  color: white;
+}
