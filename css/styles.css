@@ -1,9 +1,46 @@
+
 .title {
-  margin: 76px 0;
+  margin-top: 76px;
+  font-size: 32px;
+  color: #0E1A41;
 }
 
+.description {
+  font-size: 14px;
+  color: #9B9B9B;
+  font-style: italic;
+}
+.values-image {
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.values {
+  font-size: 24px;
+  color: #4A4A4A;
+}
+
+.value-description {
+  font-size: 14px;
+  color: #4A4A4A;
+  opacity: 0.8;
+  line-height: 22px;
+  margin-bottom: 88px;
+  padding: 0 48px;
+}
+.divider {
+  width: 50%;
+  margin: 12px auto 56px;
+  background-color: #9B9B9B;
+  opacity: 0.2;
+  height: 1px;
+
+}
 header {
   background: none;
   background-color: #54BEAD;
+}
 
+.events {
+  background-color: #F8F8F8;
 }
