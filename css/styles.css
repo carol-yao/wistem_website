@@ -5,9 +5,35 @@
   color: #0E1A41;
 }
 
+.navbar-default.affix .nav>li>a:focus:hover, .navbar-default.affix .nav>li>a:hover {
+  color: #F27678;
+}
+/* make responsive */
+.landing {
+  margin-top: 15%;
+}
+.wistem-title {
+  font-size: 5em;
+}
+
+.landing-description {
+  font-size: 20px;
+  opacity: 0.8;
+}
+
+/*make responsive*/
+
+.landing-divider {
+  width: 700px;
+  height: 1px;
+  background-color: white;
+  margin: 8px auto;
+  opacity: 0.3;
+}
+
 .description {
   font-size: 14px;
-  color: #9B9B9B;
+  color: gray;
   font-style: italic;
 }
 .values-image {
@@ -36,11 +62,17 @@
   height: 1px;
 
 }
+
 header {
   background: none;
+  background-image: url(../img/landing-bg.png);
+  background-size: cover;
   background-color: #54BEAD;
 }
 
+.navbar-default {
+  background-color: #54BEAD;
+}
 .events {
   background-color: #F8F8F8;
 }
@@ -62,6 +94,49 @@ header {
   border: none;
 }
 
+.lp-outline, .lp-outline:active, .lp-outline:focus {
+  padding: 10px 33px;
+  border-radius: 100px;
+  border: 1px solid white;
+  color: white;
+  margin-right: 24px;
+}
+
+.lp-outline:hover {
+  text-decoration: none;
+  color: #54BEAD;
+  background-color: white;
+}
+
+.lp-solid, .lp-solid:active, .lp-solid:focus {
+  padding: 10px 33px;
+  border-radius: 100px;
+  border: 1px solid #F27678;
+  background-color: #F27678;
+  color: white;
+}
+
+.lp-solid:hover {
+  text-decoration: none;
+  opacity: 0.8;
+  color: white;
+}
+
+/* make this responsive*/
+.buttons-lp {
+  margin-top: 48px;
+  margin-bottom: 144px;
+}
+
+.partners-lp {
+  font-size: 14px;
+  margin-top: 86px;
+}
+
+.partners-image {
+  margin: 4px auto;
+  max-width: 278px;
+}
 .subscribe {
   background-image: url(../img/robot-bg.svg);
 }
