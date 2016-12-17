@@ -8,6 +8,10 @@
 .navbar-default.affix .nav>li>a:focus:hover, .navbar-default.affix .nav>li>a:hover {
   color: #F27678;
 }
+
+.navbar-default.affix .navbar-header .navbar-brand:hover {
+  color: #F27678;
+}
 /* make responsive */
 .landing {
   margin-top: 15%;
@@ -73,10 +77,81 @@ header {
 .navbar-default {
   background-color: #54BEAD;
 }
+
 .events {
   background-color: #F8F8F8;
+  padding: 0 36px;
+  padding-bottom: 36px;
 }
 
+.event-container {
+  height: 420px;
+  padding: 16px 28px;
+  margin-bottom: 56px;
+}
+
+.event {
+  background-color: orange;
+  border-radius: 20px;
+  height: 96%;
+}
+
+.event-photo {
+  height: 250px;
+}
+
+#event1 {
+  background-image: url("../img/event1.png");
+  background-size: cover;
+  border-radius: 20px 20px 0 0;
+}
+
+.event-date, .event-month {
+  color: white;
+  font-size: 32px;
+  display: inline-block;
+  margin-top: 24px;
+  margin-left: 24px;
+  margin-bottom: 0;
+
+}
+
+.event-date {
+  margin-top: 0px;
+  font-size: 48px;
+}
+
+.event-description {
+  height: 130px;
+  background-color: white;
+  border-radius: 0 0 20px 20px;
+  padding: 16px;
+}
+
+.event-title {
+  font-size: 16px;
+  color: #4A4A4A;
+}
+
+.event-time {
+  font-size: 14px;
+  color: #4A4A4A;
+  opacity: 0.8;
+}
+.facebook-event,.facebook-event:focus, .facebook-event:active {
+  font-size: 14px;
+  color: #54BEAD;
+  text-decoration: none;
+}
+
+.facebook-event:hover {
+  color: #F27678;
+  text-decoration: none;
+}
+
+.event-button {
+  margin-bottom: 56px;
+}
 .btn-primary, .btn-primary:active, .btn-primary:focus {
   background-color: #F27678;
   color: white;
