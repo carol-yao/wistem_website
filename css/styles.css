@@ -1,4 +1,6 @@
-
+a:hover {
+  text-decoration: none;
+}
 .title {
   margin-top: 76px;
   font-size: 32px;
@@ -12,6 +14,8 @@
 .navbar-default.affix .navbar-header .navbar-brand:hover {
   color: #F27678;
 }
+
+
 /* make responsive */
 .landing {
   margin-top: 15%;
@@ -219,6 +223,7 @@ header {
 
 .partnerships {
   padding: 0 36px 56px;
+  padding-bottom: 100px;
 }
 .partnership-image {
   background-image: url("../img/partners-image.png");
@@ -264,4 +269,89 @@ header {
 .contact {
   background-image: url("../img/bacteria.png");
   background-size: cover;
+  padding-bottom: 64px;
+}
+
+
+.fa {
+  color: white;
+}
+
+.fa:hover {
+  color: #F27678;
+}
+
+
+/* EVENT PAGE */
+.event-page {
+  background-color: #F8F8F8;
+  padding: 36px;
+}
+
+.eventp {
+  height: 208px;
+  background-color: white;
+  width: 780px;
+  margin: 0 auto 24px;
+  border-radius: 10px;
+}
+.eventp-image-container {
+  width: 160px;
+  height: 160px;
+  margin: 24px 0 0 24px;
+  display: inline-block;
+}
+
+.eventp-image {
+  height: 128px;
+  border-radius: 10px 10px 0 0;
+  background-color: blue;
+}
+
+.eventp-date-container {
+  height: 32px;
+  background-color: #F27678;
+  border-radius: 0 0 10px 10px;
+}
+.eventp-date {
+  color: white;
+  display: inline-block;
+}
+
+.eventp-description-container {
+  width: 548px;
+  height: 150px;
+  margin-left: 24px;
+  display: inline-block;
+}
+
+.eventp-title {
+  font-size: 24px;
+  color: #4A4A4A;
+  margin: 0;
+}
+.eventp-fb, .eventp-fb:active {
+  padding:0;
+  margin: 0;
+  color: #54BEAD;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.eventp-fb:hover, .eventp-fb:focus {
+  text-decoration: none;
+  color: #F27678;
+}
+
+.eventp-time {
+  font-size: 14px;
+  color: #6E6E6E;
+  margin: 8px 0;
+}
+
+.eventp-description {
+  font-size: 14px;
+  margin: 16px 0 8px 0;
+  color: #6E6E6E;
+  line-height: 2;
 }
