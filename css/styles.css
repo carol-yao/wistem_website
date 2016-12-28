@@ -387,3 +387,16 @@ header {
 #dessert{
   background-image: url("../img/dessert.png");
 }
+
+/* OVERLAY images */
+
+#fword.event-photo  {
+  background-image: url("../img/fword-overlay.png");
+}
+#letstalk.event-photo  {
+  background-image: url("../img/letstalk-overlay.png");
+}
+
+#synbio101.event-photo {
+  background-image: url("../img/synthbio-overlay.png");
+}
