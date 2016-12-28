@@ -353,11 +353,14 @@ header {
 /* all event photos */
 
 #fword, #letstalk, #synbio101, #wisdom, #wise, #defense, #you, #dessert{
-  background-image: url("../img/fword.png");
   background-size: cover;
   border-radius: 20px 20px 0 0;
 }
 
+#fword {
+  background-image: url("../img/fword.png");
+  background-color: orange;
+}
 #letstalk {
   background-image: url("../img/letstalk.png");
 }
@@ -383,5 +386,5 @@ header {
 }
 
 #dessert{
-  background-image: url("img/dessert.png");
+  background-image: url("../img/dessert.png");
 }
