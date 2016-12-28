@@ -107,12 +107,6 @@ header {
   height: 250px;
 }
 
-#event1 {
-  background-image: url("../img/event1.png");
-  background-size: cover;
-  border-radius: 20px 20px 0 0;
-}
-
 .event-date, .event-month {
   color: white;
   font-size: 32px;
@@ -138,6 +132,7 @@ header {
 .event-title {
   font-size: 16px;
   color: #4A4A4A;
+  height: 34px;
 }
 
 .event-time {
@@ -305,7 +300,6 @@ header {
 .eventp-image {
   height: 128px;
   border-radius: 10px 10px 0 0;
-  background-color: blue;
 }
 
 .eventp-date-container {
@@ -354,4 +348,40 @@ header {
   margin: 16px 0 8px 0;
   color: #6E6E6E;
   line-height: 2;
+}
+
+/* all event photos */
+
+#fword, #letstalk, #synbio101, #wisdom, #wise, #defense, #you, #dessert{
+  background-image: url("../img/fword.png");
+  background-size: cover;
+  border-radius: 20px 20px 0 0;
+}
+
+#letstalk {
+  background-image: url("../img/letstalk.png");
+}
+
+#synbio101 {
+  background-image: url("../img/synbio101.png");
+}
+
+#wisdom {
+  background-image: url("../img/wisdom.png");
+}
+
+#wise{
+  background-image: url("../img/wise.png");
+}
+
+#defense{
+  background-image: url("../img/defense.png");
+}
+
+#you{
+  background-image: url("../img/you.png");
+}
+
+#dessert{
+  background-image: url("../img/dessert.png");
 }
