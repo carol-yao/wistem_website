@@ -25,7 +25,7 @@ a:hover {
 }
 
 .landing-description {
-  font-size: 20px;
+  font-size: 1.25em;
   opacity: 0.8;
 }
 
@@ -399,4 +399,32 @@ header {
 
 #synbio101.event-photo {
   background-image: url("../img/synthbio-overlay.png");
+}
+
+
+/* responsiveness */
+
+@media (max-width: 970px) {
+  .landing {
+    margin-top: 20%;
+  }
+
+  .landing-divider {
+    width: 50%;
+  }
+}
+
+@media (max-width: 860px) {
+  .landing {
+    margin-top: 25%;
+  }
+
+
+}
+
+@media (max-width: 750px) {
+  .landing {
+    margin-top: 25%;
+  }
+
 }
