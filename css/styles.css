@@ -356,7 +356,7 @@ header {
 
 /* all event photos */
 
-#fword, #letstalk, #synbio101, #wisdom, #wise, #defense, #you, #dessert{
+#fword, #letstalk, #synbio101, #wisdom, #wise, #defense, #you, #dessert, #beattheheat, #fightlikeagirl, #paintyourpinky, #programworkshop, #springdance, #synbiopanel, #hiphopclass{
   background-size: cover;
   border-radius: 20px 20px 0 0;
 }
@@ -364,6 +364,7 @@ header {
 #fword {
   background-image: url("../img/fword.png");
 }
+
 #letstalk {
   background-image: url("../img/letstalk.png");
 }
@@ -390,6 +391,34 @@ header {
 
 #dessert{
   background-image: url("../img/dessert.png");
+}
+
+#beattheheat {
+  background-image: url("../img/beattheheat.jpg");
+}
+
+#fightlikeagirl {
+  background-image: url("../img/fightlikeagirl.jpg");
+}
+
+#paintyourpinky {
+  background-image: url("../img/paintyourpinky.jpg");
+}
+
+#programworkshop {
+  background-image: url("../img/programworkshop.jpg");
+}
+
+#springdance {
+  background-image: url("../img/springdance.jpg");
+}
+
+#synbiopanel {
+  background-image: url("../img/synbiopanel.jpg");
+}
+
+#hiphopclass {
+  background-image: url("../img/hip hop class.png");
 }
 
 /* OVERLAY images */
