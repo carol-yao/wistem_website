@@ -429,10 +429,19 @@ header {
 #letstalk.event-photo  {
   background-image: url("../img/letstalk-overlay.png");
 }
-
 #synbio101.event-photo {
   background-image: url("../img/synthbio-overlay.png");
 }
+#synbiopanel.event-photo  {
+  background-image: url("../img/synbiopanel-overlay.jpg");
+}
+#fightlikeagirl.event-photo  {
+  background-image: url("../img/fightlikeagirl-overlay.jpg");
+}
+#programworkshop.event-photo {
+  background-image: url("../img/programworkshop-overlay.jpg");
+}
+
 
 /* Mailchimp Styles */
 
