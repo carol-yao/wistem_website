@@ -2,7 +2,7 @@ var HTMLUpcomingEventTitle = '<h2 class="eventp-title"><strong>Coming Soon:</str
 var HTMLPastEventTitle = '<h2 class="eventp-title">%data%</h2>'
 var HTMLEventDate = '<div class="eventp-date-container text-center"><h5 class="eventp-date">%data%</h5></a></div></div>';
 var HTMLEventTime = '<h6 class="eventp-time">%data%</h6>';
-var HTMLEventDescription = '<h6 class="eventp-description">%data%</h6>';
+var HTMLEventDescription = '<h6 class="eventp-description">%data%</h6><br>';
 var HTMLEventRow = '<div class="row eventp">';
 var HTMLClosingDiv = '</div>';
 var HTMLImageDiv = '<div class="eventp-image-container"><a href="%data%" target="_blank">';
