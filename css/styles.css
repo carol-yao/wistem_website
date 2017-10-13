@@ -95,7 +95,7 @@ header {
 .event-container {
   height: 420px;
   padding: 16px 28px;
-  margin-bottom: 56px;
+  margin-bottom: 35px;
 }
 
 .event {
@@ -123,7 +123,7 @@ header {
 }
 
 .event-description {
-  height: 130px;
+  height: 115px;
   background-color: white;
   border-radius: 0 0 20px 20px;
   padding: 16px;
@@ -355,7 +355,7 @@ header {
 }
 
 /* all event photos */
-
+/* 
 #fword, #letstalk, #synbio101, #wisdom, #wise, #defense, #you, #dessert, #beattheheat, #fightlikeagirl, #paintyourpinky, #programworkshop, #springdance, #synbiopanel, #hiphopclass{
   background-size: cover;
   border-radius: 20px 20px 0 0;
@@ -419,11 +419,11 @@ header {
 
 #hiphopclass {
   background-image: url("../img/hip hop class.png");
-}
+} */
 
 /* OVERLAY images */
 
-#fword.event-photo  {
+/* #fword.event-photo  {
   background-image: url("../img/fword-overlay.png");
 }
 #letstalk.event-photo  {
@@ -440,7 +440,7 @@ header {
 }
 #programworkshop.event-photo {
   background-image: url("../img/programworkshop-overlay.jpg");
-}
+} */
 
 
 /* Mailchimp Styles */
