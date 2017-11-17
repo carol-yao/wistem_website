@@ -17,25 +17,27 @@ var HTMLIndexEventTitle = '<div class="event-description"><h5 class="event-title
 var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></div>';
 
 var events = {
-    upcomingevents: [{
-        title: "Intro to Programming Workshop",
-        date: "Nov 13 2017",
-        time: "7pm - 8:30pm",
-        location: "STC 0050",
-        description: "WiSTEM is hosting ANOTHER INTRO TO PROGRAMMING WORKSHOP! 💻💻💻 NO EXPERIENCE NECESSARY. Make sure to get a ticket because spaces are limited.",
-        link: "https://www.facebook.com/events/153018705443474/",
-        image: "img/introtoprogrammingf17.jpg"
-    },
-    {
-        title: "Flawless: A Bomber Wednesday",
-        date: "Nov 15 2017",
-        time: "9pm - 2am",
-        location: "The Bombshelter Pub",
-        description: "Get ready for a LIT night full of your favourite female artists like Beyonce, Rihanna, and Taylor Swift. It's gonna be a boss ass night.",
-        link: "https://www.facebook.com/events/184031778837347/",
-        image: "img/bomber.png"
-    }],
-    pastevents: [
+    upcomingevents: [
+
+    ],
+    pastevents: [{
+	        title: "Intro to Programming Workshop",
+	        date: "Nov 13 2017",
+	        time: "7pm - 8:30pm",
+	        location: "STC 0050",
+	        description: "WiSTEM is hosting ANOTHER INTRO TO PROGRAMMING WORKSHOP! 💻💻💻 NO EXPERIENCE NECESSARY. Make sure to get a ticket because spaces are limited.",
+	        link: "https://www.facebook.com/events/153018705443474/",
+	        image: "img/introtoprogrammingf17.jpg"
+	    },
+	    {
+	        title: "Flawless: A Bomber Wednesday",
+	        date: "Nov 15 2017",
+	        time: "9pm - 2am",
+	        location: "The Bombshelter Pub",
+	        description: "Get ready for a LIT night full of your favourite female artists like Beyonce, Rihanna, and Taylor Swift. It's gonna be a boss ass night.",
+	        link: "https://www.facebook.com/events/184031778837347/",
+	        image: "img/bomber.png"
+    	},
         {
             title: "STEMania",
             date: "Oct 20 2017",
