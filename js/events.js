@@ -17,8 +17,24 @@ var HTMLIndexEventTitle = '<div class="event-description"><h5 class="event-title
 var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></div>';
 
 var events = {
-    upcomingevents: [
-
+    upcomingevents: [{
+            title: "Wet Lab Techniques",
+            date: "Feb 26 2018",
+            time: "7pm - 8:30pm",
+            location: "ESC 319",
+            description: "Join WiSTEM and Velocity Science to experience hands-on wet lab techniques and equipment in the Velocity Science lab space!",
+            link: "https://www.facebook.com/events/151235939018404/",
+            image: "img/velocity-wetlab.png"
+        },
+        {
+            title: "Dance Class with AfroFusion",
+            date: "March 1 2018",
+            time: "6:30pm - 8pm",
+            location: "PAC Studio 2",
+            description: "Join Women in STEM and AfroFusion Dance Club for an open level dance class. Relax, let loose, and groove with us!",
+            link: "https://www.facebook.com/events/1057866051032574/",
+            image: "img/afrofusion-dance.png"
+        }
     ],
     pastevents: [{
 	        title: "Intro to Programming Workshop",
