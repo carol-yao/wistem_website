@@ -12,31 +12,42 @@ var HTMLEventImage = '<div class="eventp-image" style="background-image: url(%da
 var mostRecentEvents = [];
 var HTMLIndexEventStart = '<div class="col-md-4 event-container"><a href="%data%" target="_blank"><div class="event">';
 var HTMLIndexEventPhoto = '<div class="event-photo" style="background-image:url(%data%); background-size: cover;border-radius: 20px 20px 0 0;">';
-var HTMLIndexEventDate = '<h3 class="event-month">%data%</h3></div>';
+var HTMLIndexEventDate = '<h3 class="ev ent-month">%data%</h3></div>';
 var HTMLIndexEventTitle = '<div class="event-description"><h5 class="event-title">%data%</h5>';
 var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></div>';
 
 var events = {
-    upcomingevents: [{
-            title: "Wet Lab Techniques",
-            date: "Feb 26 2018",
-            time: "7pm - 8:30pm",
-            location: "ESC 319",
-            description: "Join WiSTEM and Velocity Science to experience hands-on wet lab techniques and equipment in the Velocity Science lab space!",
-            link: "https://www.facebook.com/events/151235939018404/",
-            image: "img/velocity-wetlab.png"
-        },
-        {
-            title: "Dance Class with AfroFusion",
-            date: "March 1 2018",
-            time: "6:30pm - 8pm",
-            location: "PAC Studio 2",
-            description: "Join Women in STEM and AfroFusion Dance Club for an open level dance class. Relax, let loose, and groove with us!",
-            link: "https://www.facebook.com/events/1057866051032574/",
-            image: "img/afrofusion-dance.png"
-        }
+    upcomingevents: [
+    {
+				title: "Open Mic Night with PhysClub",
+				date: "March 20 2018",
+				time: "5:30pm - 9pm",
+				location: "The Bombshelter Pub",
+				description: "Do you have a great talent you want to share? Come to out to our open mic night to share your talents with us, or to see your talented peers!",
+				link: "https://www.facebook.com/events/166791930780006/",
+				image: "img/open-mic-night.jpg"
+    },
     ],
-    pastevents: [{
+    pastevents: [
+	{
+			title: "Dance Class with AfroFusion",
+			date: "March 1 2018",
+			time: "6:30pm - 8pm",
+			location: "PAC Studio 2",
+			description: "Join Women in STEM and AfroFusion Dance Club for an open level dance class. Relax, let loose, and groove with us!",
+			link: "https://www.facebook.com/events/1057866051032574/",
+			image: "img/afrofusion-dance.png"
+    },
+    {
+		title: "Wet Lab Techniques",
+		date: "Feb 26 2018",
+		time: "7pm - 8:30pm",
+		location: "ESC 319",
+		description: "Join WiSTEM and Velocity Science to experience hands-on wet lab techniques and equipment in the Velocity Science lab space!",
+		link: "https://www.facebook.com/events/151235939018404/",
+		image: "img/velocity-wetlab.png"
+	},
+    {
 	        title: "Intro to Programming Workshop",
 	        date: "Nov 13 2017",
 	        time: "7pm - 8:30pm",
