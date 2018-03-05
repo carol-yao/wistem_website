@@ -18,6 +18,26 @@ var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></di
 
 var events = {
     upcomingevents: [{
+        title: "Open Mic Night",
+        date: "Mar 20 2018",
+        time: "5:30pm - 9pm",
+        location: "The Bombshelter Pub",
+        description: "Come to out to our open mic night with WiSTEM and PhysClub to share your talents with us, or to see your talented peers!",
+        link: "https://www.facebook.com/events/166791930780006/",
+        image: "img/open-mic-night.png"
+    },
+
+    ],
+    pastevents: [{
+            title: "Dance Class with AfroFusion",
+            date: "Mar 1 2018",
+            time: "6:30pm - 8pm",
+            location: "PAC Studio 2",
+            description: "Join Women in STEM and AfroFusion Dance Club for an open level dance class. Relax, let loose, and groove with us!",
+            link: "https://www.facebook.com/events/1057866051032574/",
+            image: "img/afrofusion-dance.png"
+        },
+        {
             title: "Wet Lab Techniques",
             date: "Feb 26 2018",
             time: "7pm - 8:30pm",
@@ -27,16 +47,6 @@ var events = {
             image: "img/velocity-wetlab.png"
         },
         {
-            title: "Dance Class with AfroFusion",
-            date: "March 1 2018",
-            time: "6:30pm - 8pm",
-            location: "PAC Studio 2",
-            description: "Join Women in STEM and AfroFusion Dance Club for an open level dance class. Relax, let loose, and groove with us!",
-            link: "https://www.facebook.com/events/1057866051032574/",
-            image: "img/afrofusion-dance.png"
-        }
-    ],
-    pastevents: [{
 	        title: "Intro to Programming Workshop",
 	        date: "Nov 13 2017",
 	        time: "7pm - 8:30pm",
