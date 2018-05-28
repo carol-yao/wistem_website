@@ -25,8 +25,7 @@ var events = {
             description: "WiSTEM is hosting our annual Beginning of Term bonfire! Celebrate the spring term with marshmallow roasting and hanging with friends :)",
             link: "https://www.facebook.com/events/166742827501241/",
             image: "bot-bonfire.png"
-        }
-    ],
+            }],
     pastevents: [{
         title: "Intro to Programming: Python",
         date: "Mar 29 2018",
