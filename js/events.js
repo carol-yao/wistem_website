@@ -19,16 +19,25 @@ var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></di
 var events = {
     upcomingevents: [
         {
-            title: "Intro to Programming: Python",
-            date: "Mar 29 2018",
-            time: "7pm - 8:30pm",
-            location: "STC 0050",
-            description: "WiSTEM is hosting ANOTHER INTRO TO PROGRAMMING WORKSHOP! Please get a FREE ticket through Eventbrite and to learn how to program in Python!",
-            link: "https://www.facebook.com/events/357516918083429/",
-            image: "img/intro-to-python.png"
+            title: "B.O.T Bonfire",
+            date: "May 29 2018",
+            time: "7:00pm - 10:00pm",
+            location: "Laurel Creek, UW",
+            description: "WiSTEM is hosting our annual Beginning of Term bonfire! Celebrate the spring term with marshmallow roasting and hanging with friends :)",
+            link: "https://www.facebook.com/events/166742827501241/",
+            image: "bot-bonfire.png"
         }
     ],
     pastevents: [{
+        title: "Intro to Programming: Python",
+        date: "Mar 29 2018",
+        time: "7pm - 8:30pm",
+        location: "STC 0050",
+        description: "WiSTEM is hosting ANOTHER INTRO TO PROGRAMMING WORKSHOP! Please get a FREE ticket through Eventbrite and to learn how to program in Python!",
+        link: "https://www.facebook.com/events/357516918083429/",
+        image: "img/intro-to-python.png"
+        },
+        {
         title: "Open Mic Night",
         date: "Mar 20 2018",
         time: "5:30pm - 9pm",
