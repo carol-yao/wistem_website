@@ -21,7 +21,7 @@ var events = {
         {
             title: "B.O.T Bonfire",
             date: "May 29 2018",
-            time: "7:00pm - 10:00pm",
+            time: "7:00pm -10:00pm",
             location: "Laurel Creek, UW",
             description: "WiSTEM is hosting our annual Beginning of Term bonfire! Celebrate the spring term with marshmallow roasting and hanging with friends :)",
             link: "https://www.facebook.com/events/166742827501241/",
@@ -183,7 +183,7 @@ var events = {
         },
         {
             title: "Synthetic Biology and Gender Equality 101",
-            date: "Oct 29 &amp; 30 2015",
+            date: "Oct 29 & 30 2015",
             time: "10:30AM – 11:20AM, 4:30PM – 5:20PM",
             location: "B1 377",
             description: "This first workshop is intended to introduce you to the intersection of synthetic biology and gender equality/equity.",
