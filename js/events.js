@@ -17,8 +17,7 @@ var HTMLIndexEventTitle = '<div class="event-description"><h5 class="event-title
 var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></div>';
 
 var events = {
-    upcomingevents: [
-        {
+    upcomingevents: [{
             title: "B.O.T Bonfire",
             date: "May 29 2018",
             time: "7:00pm -10:00pm",
