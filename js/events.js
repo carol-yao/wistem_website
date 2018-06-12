@@ -18,7 +18,7 @@ var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></di
 
 var events = {
     upcomingevents: [{
-            title: "Movie Night with WiSTEM - The Incredibles",
+            title: "Movie Night - The Incredibles",
             date: "June 14 2018",
             time: "7:00pm - 9:30pm",
             location: "MC Comfy",
