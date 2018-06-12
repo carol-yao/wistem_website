@@ -24,7 +24,7 @@ var events = {
             location: "MC Comfy",
             description: "Watch the Incredibles in the Math building's comfy room (MC 3rd floor)! $2 entry at the door which includes unlimited popcorn & drinks*!",
             link: "https://www.facebook.com/events/434677386943811/",
-            image: "movie-night.png"
+            image: "img/movie-night.png"
             }],
     pastevents: [{
         title: "B.O.T Bonfire",
@@ -33,7 +33,7 @@ var events = {
         location: "Laurel Creek, UW",
         description: "WiSTEM is hosting our annual Beginning of Term bonfire! Celebrate the spring term with marshmallow roasting and hanging with friends!",
         link: "https://www.facebook.com/events/166742827501241/",
-        image: "bot-bonfire.png"
+        image: "img/bot-bonfire.png"
         },
         {
         title: "Intro to Programming: Python",
