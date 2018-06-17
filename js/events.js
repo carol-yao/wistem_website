@@ -1,4 +1,3 @@
-testing-branch
 var HTMLUpcomingEventTitle = '<h2 class="eventp-title"><strong>Coming Soon:</strong> %data%</h2>';
 var HTMLPastEventTitle = '<h2 class="eventp-title">%data%</h2>'
 var HTMLEventDate = '<div class="eventp-date-container text-center"><h5 class="eventp-date">%data%</h5></a></div></div>';
