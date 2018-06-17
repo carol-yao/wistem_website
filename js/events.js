@@ -22,7 +22,7 @@ var events = {
             date: "June 14 2018",
             time: "7:00pm - 9:30pm",
             location: "MC Comfy",
-            description: "Watch the Incredibles in the Math building's comfy room (MC 3rd floor)! $2 entry at the door which includes unlimited popcorn & drinks*!",
+            description: "Come watch the Incredibles in the Math building's comfy room (MC 3rd floor)! $2 entry at the door which includes unlimited popcorn & drinks*!",
             link: "https://www.facebook.com/events/434677386943811/",
             image: "img/movie-night.png"
             }],
