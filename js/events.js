@@ -24,7 +24,7 @@ var events = {
             location: "TBD",
             description: "TBD",
             link: "http://www.uwwistem.ca",
-            image: "temp-python-2018.png"
+            image: "img/temp-python-2018.png"
             }],
     pastevents: [{
         title: "Movie Night - The Incredibles",
