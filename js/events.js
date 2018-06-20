@@ -18,15 +18,24 @@ var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></di
 
 var events = {
     upcomingevents: [{
-            title: "Movie Night - The Incredibles",
-            date: "June 14 2018",
-            time: "7:00pm - 9:30pm",
-            location: "MC Comfy",
-            description: "Come watch the Incredibles in the Math building's comfy room (MC 3rd floor)! $2 entry at the door which includes unlimited popcorn & drinks*!",
-            link: "https://www.facebook.com/events/434677386943811/",
-            image: "img/movie-night.png"
+            title: "Intro To Programming: Python",
+            date: "July 3 2018",
+            time: "TBD",
+            location: "TBD",
+            description: "TBD",
+            link: "http://www.uwwistem.ca",
+            image: "temp-python-2018.png"
             }],
     pastevents: [{
+        title: "Movie Night - The Incredibles",
+        date: "June 14 2018",
+        time: "7:00pm - 9:30pm",
+        location: "MC Comfy",
+        description: "Come watch the Incredibles in the Math building's comfy room (MC 3rd floor)! $2 entry at the door which includes unlimited popcorn & drinks*!",
+        link: "https://www.facebook.com/events/434677386943811/",
+        image: "img/movie-night.png"
+        },
+        {
         title: "B.O.T Bonfire",
         date: "May 29 2018",
         time: "7:00pm -10:00pm",
