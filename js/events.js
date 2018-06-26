@@ -22,7 +22,7 @@ var events = {
             date: "July 3 2018",
             time: "5:30pm - 7:30pm",
             location: "STC0010",
-            description: "TBD",
+            description: "Come on out for a night of pizza and learning something new for $2! Please book your spot using the Eventbrite General Admission ticket so that you can get your pizza.",
             link: "http://www.uwwistem.ca",
             image: "img/python-intro.png"
             }],
