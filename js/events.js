@@ -20,11 +20,11 @@ var events = {
     upcomingevents: [{
             title: "Intro To Programming: Python",
             date: "July 3 2018",
-            time: "TBD",
-            location: "TBD",
+            time: "5:30pm - 7:30pm",
+            location: "STC0010",
             description: "TBD",
             link: "http://www.uwwistem.ca",
-            image: "img/temp-python-2018.png"
+            image: "img/python-intro.png"
             }],
     pastevents: [{
         title: "Movie Night - The Incredibles",
