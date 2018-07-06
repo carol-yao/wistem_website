@@ -18,15 +18,24 @@ var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></di
 
 var events = {
     upcomingevents: [{
-            title: "Intro To Programming: Python",
-            date: "July 3 2018",
-            time: "5:30pm - 7:30pm",
-            location: "STC0010",
-            description: "Come on out for a night of pizza and learning something new for $2! Please book your spot using the Eventbrite General Admission ticket so that you can get your pizza.",
-            link: "http://www.uwwistem.ca",
-            image: "img/python-intro.png"
+            title: "",
+            date: "",
+            time: "",
+            location: "",
+            description: "",
+            link: "",
+            image: ""
             }],
     pastevents: [{
+        title: "Intro To Programming: Python",
+        date: "July 3 2018",
+        time: "5:30pm - 7:30pm",
+        location: "STC0010",
+        description: "Come on out for a night of pizza and learning something new for $2! Please book your spot using the Eventbrite General Admission ticket so that you can get your pizza.",
+        link: "http://www.uwwistem.ca",
+        image: "img/python-intro.png"
+        },
+        {
         title: "Movie Night - The Incredibles",
         date: "June 14 2018",
         time: "7:00pm - 9:30pm",
