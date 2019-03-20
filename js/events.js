@@ -18,13 +18,13 @@ var HTMLIndexEventTime = '<h5 class="event-time">%data%</h5></div></div></a></di
 
 var events = {
     upcomingevents: [{
-            title: "",
-            date: "",
-            time: "",
-            location: "",
-            description: "",
-            link: "",
-            image: ""
+            title: "Shrink Plastic Workshop",
+            date: "March 20 2019",
+            time: "6:30pm - 8:30pm",
+            location: "STC 0010",
+            description: "Come express your creativity and de-stress at University of Waterloo WiSTEM x Crafts 4 Charity workshop on making shrink plastic key chains! ",
+            link: "https://www.facebook.com/events/2291184721149140/?notif_t=event_aggregate&notif_id=1553083191107568",
+            image: "img/shrink_plastic.png"
             }],
     pastevents: [{
         title: "Intro To Programming: Python",
